@@ -585,6 +585,10 @@ img.img-fluid.tool {padding-top: 1.5rem;}
 	-webkit-animation: fadeOut 0.8s;
 	animation: fadeOut 0.8s;
 }
+
+p a.p-small {
+    color: #f3f7fd;
+}
 /* end of fade animation for image lightbox - magnific popup */
 
 /*************************/
